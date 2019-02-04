@@ -36,10 +36,6 @@ Step5. Run `log.py`with this command `vagrant@vagrant:/vagrant$ python log.py` i
 
 As result, the terminal will displas the queries defined in the `log.py` file.
 
-### Author
-* _Neila CHETTAOUI_
-
 ### License
-
 * The [data](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip) used in this porject is provided by [Udacity](https://www.udacity.com).
 * The [Virtual Machine (VM) configuration](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5acfbfa3_fsnd-virtual-machine/fsnd-virtual-machine.zip) used in this porject is provided by [Udacity](https://www.udacity.com).
